@@ -14,5 +14,6 @@ public class ComparandoNumeros {
             System.out.println(String.format("O número %d é menor que o número %d", numero1, numero2));
         } else
             System.out.println(String.format("Os números %d e %d são iguais", numero1, numero2));
+
     }
 }
